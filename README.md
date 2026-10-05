@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Fidan 👋
 
-<!--
-**mamedlif08/mamedlif08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **AI Engineering Intern**  
+🎓 **Computer Science Student**  
+🌱 Currently learning **Artificial Intelligence & Machine Learning**
 
-Here are some ideas to get you started:
+I enjoy building projects, exploring new technologies, and turning ideas into working applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+...
+
+### Web Development
+...
+
+### Tools & Technologies
+...
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Python
+- Data Processing
+- Backend Development
+- Software Engineering
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in learning, building, and working on interesting projects.
+
+⭐ Feel free to explore my repositories!
